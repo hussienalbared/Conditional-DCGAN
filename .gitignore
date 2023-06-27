@@ -4,4 +4,7 @@ tboard_logs/
 launch.json
 samples/
 models/
+images/
+runs/
+ctboard_logs/
 
